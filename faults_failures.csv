@@ -1,0 +1,9 @@
+fault-ID,failure
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithSecondOfMinuteInDstChange
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithMinuteOfHourInDstChange
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithMinuteOfHourInDstChange_mockZone
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testBug2182444_usCentral
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithMillisOfSecondInDstChange_Paris_summer
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithHourOfDayInDstChange
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testWithMillisOfSecondInDstChange_NewYork_winter
+Time-26-26,org.joda.time.TestDateTimeZoneCutover#testBug2182444_ausNSW
